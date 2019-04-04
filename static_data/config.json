@@ -1,0 +1,31 @@
+{
+  "date_input": "03/04/2019",
+  "boolean_input": true,
+  "boolean_string_input": "True",
+  "string_case_input": "aBcDeF",
+  "integer_input": "3",
+  "float_input": "4.2",
+  "date_list_input": [
+    "03/04/2019",
+    "04/04/2019"
+  ],
+  "nested_field": {
+    "bottom_1": [
+      "AbC",
+      "cDe"
+    ],
+    "bottom_2": [
+      "fGh",
+      "iLm"
+    ]
+  },
+  "super_nested_field": {
+    "nested_1": [
+      "AbC",
+      "cDe"
+    ],
+    "nested_2": {
+      "nested_3": "AbCdEf"
+    }
+  }
+}
